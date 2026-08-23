@@ -32,3 +32,8 @@ cargo run
   importovat `rand::RngExt`)
 - funkce, návratové hodnoty a proč poslední výraz bez `;` je return
 - `loop`, `break`, `continue`, `if else`
+
+## Zdroje, ze kterých se učím
+
+- [Rust Book](https://doc.rust-lang.org/book/) – oficiální dokumentace/kniha
+- [Rust for beginners (2025)](https://youtube.com/playlist?list=PLAscMa3kKhHjBYOTrT20kpYMNQX95KU6i) – YouTube playlist od Rustfully
