@@ -39,8 +39,3 @@ cargo run
 
 - [Rust Book](https://doc.rust-lang.org/book/) – official docs/book
 - [Rust for beginners (2025)](https://youtube.com/playlist?list=PLAscMa3kKhHjBYOTrT20kpYMNQX95KU6i) – YouTube playlist by Rustfully
-
-## What I'd like to add next
-
-- better input handling (e.g. negative numbers or empty input)
-- a way to replay without restarting the program
