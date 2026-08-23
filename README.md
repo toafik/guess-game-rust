@@ -39,8 +39,3 @@ cargo run
 
 - [Rust Book](https://doc.rust-lang.org/book/) – oficiální dokumentace/kniha
 - [Rust for beginners (2025)](https://youtube.com/playlist?list=PLAscMa3kKhHjBYOTrT20kpYMNQX95KU6i) – YouTube playlist od Rustfully
-
-## Co bych chtěl přidat příště
-
-- lepší ošetření vstupu (třeba záporná čísla nebo prázdný vstup)
-- možnost hrát znovu bez restartu programu
