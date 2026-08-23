@@ -1,5 +1,7 @@
 # Guess Game 🎯
 
+🇨🇿 [Česká verze](README.md)
+
 My first program in Rust! It's not the best code out there, but I'm learning :D
 
 I used AI (Claude and Gemini) as a learning aid, since it felt like a better way to actually

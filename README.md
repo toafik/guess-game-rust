@@ -1,5 +1,7 @@
 # Guess Game 🎯
 
+🇬🇧 [English version](README.en.md)
+
 Moje první program v Rustu! Není to nejlepší kód, ale učím se to :D
 
 Používal jsem AI (Claude a Gemini) jako pomocníka při učení, protože mi to přišlo jako lepší způsob, jak
@@ -37,3 +39,8 @@ cargo run
 
 - [Rust Book](https://doc.rust-lang.org/book/) – oficiální dokumentace/kniha
 - [Rust for beginners (2025)](https://youtube.com/playlist?list=PLAscMa3kKhHjBYOTrT20kpYMNQX95KU6i) – YouTube playlist od Rustfully
+
+## Co bych chtěl přidat příště
+
+- lepší ošetření vstupu (třeba záporná čísla nebo prázdný vstup)
+- možnost hrát znovu bez restartu programu
