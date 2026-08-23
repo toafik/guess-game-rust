@@ -2,7 +2,7 @@
 
 Moje první program v Rustu! Není to nejlepší kód, ale učím se to :D
 
-Používal jsem AI (Claude) jako pomocníka při učení, protože mi to přišlo jako lepší způsob, jak
+Používal jsem AI (Claude a Gemini) jako pomocníka při učení, protože mi to přišlo jako lepší způsob, jak
 pochopit, proč věci fungují (nebo nefungují XD). Vedle toho se učím i z videí a z oficiální
 [Rust Book](https://doc.rust-lang.org/book/).
 
@@ -31,9 +31,4 @@ cargo run
 - základ knihovny `rand` (verze 0.10, kde se `thread_rng()` přejmenoval na `rng()` a je potřeba
   importovat `rand::RngExt`)
 - funkce, návratové hodnoty a proč poslední výraz bez `;` je return
-- `loop`, `break`, `continue`
-
-## Co bych chtěl přidat příště
-
-- lepší ošetření vstupu (třeba záporná čísla nebo prázdný vstup)
-- možnost hrát znovu bez restartu programu
+- `loop`, `break`, `continue`, `if else`
