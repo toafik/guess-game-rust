@@ -34,6 +34,7 @@ cargo run
   importovat `rand::RngExt`)
 - funkce, návratové hodnoty a proč poslední výraz bez `;` je return
 - `loop`, `break`, `continue`, `if else`
+- práce s `git`, well jen jsem uměl používat `git clone` XD
 
 ## Zdroje, ze kterých se učím
 
