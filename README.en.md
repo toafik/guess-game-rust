@@ -34,6 +34,7 @@ cargo run
   you need to import `rand::RngExt`)
 - functions, return values, and why the last expression without a `;` is the return value
 - `loop`, `break`, `continue`, `if else`
+- working with `git`, well I only knew how to use `git clone` XD
 
 ## Resources I'm learning from
 
