@@ -18,6 +18,7 @@ fn difficulty() -> u32 {
 fn main() {
     let max = difficulty();
     let mut pokusy = 0;
+    let number = rand::rng().random_range(1..=max);
     println!("zkus trefit random čislo!");
     println!("*--------------------------------------------------------------*");
 
@@ -36,7 +37,7 @@ fn main() {
         println!("Tvoje čislo je {guess}");
         println!("*--------------------------------------------------------------*");
         if guess == number {
-            println!("spravně");
+            println!("spravně, to číslo bylo {number}");
             break;
         } else {
             println!("špatně!");
