@@ -9,7 +9,7 @@ fn difficulty() -> u32 {
         Ok(num) => num,
         Err(_) => {
             println!("špatná hodnota, zkus používat čísla ty vajíčko <3");
-            return difficulty(); // zkusí to znovu od začátku
+            return difficulty();
         }
     };
     x
@@ -25,7 +25,7 @@ fn main() {
     loop {
         println!("zadej svuj guess:");
         let mut guess: String = String::new();
-        io::stdin().read_line(&mut guess).expect("Error"); // <- tohle chybělo
+        io::stdin().read_line(&mut guess).expect("Error");
         let guess: u32 = match guess.trim().parse() {
             Ok(num) => num,
             Err(_) => {
